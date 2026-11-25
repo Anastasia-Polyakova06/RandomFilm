@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Random Film</string>
+    <string name="next">Следующий фильм</string>
+    <string name="reset">Начать заново</string>
+    <string name="ready">Нажми на кнопку, чтобы выбрать фильм</string>
+    <string name="no_movies">Фильмы закончились! Нажми «Начать заново».</string>
+
+    <string-array name="movies">
+        <item>Интерстеллар</item>
+        <item>Начало</item>
+        <item>Матрица</item>
+        <item>Побег из Шоушенка</item>
+        <item>Зелёная миля</item>
+        <item>Форрест Гамп</item>
+        <item>1+1</item>
+        <item>Леон</item>
+        <item>Бойцовский клуб</item>
+        <item>Титаник</item>
+    </string-array>
+</resources>
